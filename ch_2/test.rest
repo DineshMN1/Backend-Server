@@ -16,3 +16,8 @@ Content-Type: application/json
 {
    "name": "Dinesh"
 }
+
+
+### DELETE END POINT 
+
+DELETE http://localhost:1222/api/data
