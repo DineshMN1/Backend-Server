@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -135,8 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-=======
-node_modules/
 
-package-lock.json
->>>>>>> 79b03fc (Initial commit)
+ch_2/node_modules/
+ch_3/node_modules/
+ch_2/package-lock.json
+ch_3/package-lock.json
+
+eslintrc
